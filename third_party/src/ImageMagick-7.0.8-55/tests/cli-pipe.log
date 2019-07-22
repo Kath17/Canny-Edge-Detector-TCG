@@ -1,0 +1,49 @@
+1..17
+ok
+PASS: tests/cli-pipe.tap 1
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 2
+-=>/tmp/magick-23904kDincYjBQdgX MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 3
+-=>/tmp/magick-2393367XIM-jj5FS0 PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 4
+ok
+PASS: tests/cli-pipe.tap 5
+/home/kat/Documentos/Grafica/canny-edge-detector-master/third_party/src/ImageMagick-7.0.8-55/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 6
+-=>/tmp/magick-23990gYGidvrwmM33 MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 7
+-=>/tmp/magick-240197bKKhSSF4wSV PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 8
+/home/kat/Documentos/Grafica/canny-edge-detector-master/third_party/src/ImageMagick-7.0.8-55/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 9
+/home/kat/Documentos/Grafica/canny-edge-detector-master/third_party/src/ImageMagick-7.0.8-55/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 10
+ok
+PASS: tests/cli-pipe.tap 11
+/home/kat/Documentos/Grafica/canny-edge-detector-master/third_party/src/ImageMagick-7.0.8-55/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 12
+-=>/tmp/magick-24104KAcFWXyKzPSZ PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 13
+fd:5 PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 14
+/home/kat/Documentos/Grafica/canny-edge-detector-master/third_party/src/ImageMagick-7.0.8-55/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 15
+/home/kat/Documentos/Grafica/canny-edge-detector-master/third_party/src/ImageMagick-7.0.8-55/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 16
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 17
