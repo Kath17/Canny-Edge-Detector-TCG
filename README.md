@@ -9,19 +9,19 @@ Magick++
 # Ejemplos
 
 Libros:
-![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screes/imagen.png)
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen.png)
 
 Frutas:
-![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screes/imagen1.png)
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen1.png)
 
 Globos:
-![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screes/imagen2.png)
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen2.png)
 
 Placa:
-![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screes/imagen4.png)
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen4.png)
 
 Tierra:
-![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screes/imagen5.png)
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen5.png)
 
 Gato:
-![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screes/imagen6.png)
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen6.png)
