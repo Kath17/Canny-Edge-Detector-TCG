@@ -74,4 +74,5 @@ run:
 	LD_LIBRARY_PATH=$(LD_LIBRARY_PATH) $(RUNDIR)/$(PROJ) -i ./img/globos.jpg -o ./img/globos_out.png
 	LD_LIBRARY_PATH=$(LD_LIBRARY_PATH) $(RUNDIR)/$(PROJ) -i ./img/placa.jpg -o ./img/placa_out.png
 	LD_LIBRARY_PATH=$(LD_LIBRARY_PATH) $(RUNDIR)/$(PROJ) -i ./img/tierra.jpg -o ./img/tierra_out.png
+	LD_LIBRARY_PATH=$(LD_LIBRARY_PATH) $(RUNDIR)/$(PROJ) -i ./img/unsa.jpg -o ./img/unsa_out.png
 #	LD_LIBRARY_PATH=$(LD_LIBRARY_PATH) $(RUNDIR)/$(PROJ) -i ./img/lapiceros.jpg -o ./img/lapiceros_out.png

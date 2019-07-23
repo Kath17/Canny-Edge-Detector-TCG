@@ -8,6 +8,9 @@ Magick++
 
 # Ejemplos
 
+UNSA logo:
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen7.png)
+
 Libros:
 ![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/imagen.png)
 
