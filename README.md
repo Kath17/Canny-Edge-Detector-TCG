@@ -12,7 +12,7 @@ TABLA COMPARATIVA:
 ![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/tabla.png)
 
 IMAGEN 4K:
-![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/cuda_4K.png)
+![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/cuda_4k.png)
 
 IMAGEN 800x800:
 ![alt text](https://github.com/Kath17/ProyectoFinalTCG/blob/master/screens/cuda_800.png)
